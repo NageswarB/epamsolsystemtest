@@ -1,6 +1,0 @@
-06-13-2016 06:54:49 Log.java INFO  [main] utils.Log 16 - D:\epamsolsystemtest\epamsystemtest is exists!!
- 06-13-2016 06:54:56 Log.java INFO  [main] utils.Log 16 - Set webdriver implicitlyWait seleniumTimeOut to 30000(MilliSeconds)
- 06-13-2016 06:54:56 Log.java INFO  [main] utils.Log 16 - Set webdriver pageLoadTimeOut to 180000(MilliSeconds)
- 06-13-2016 06:54:56 Log.java INFO  [main] utils.Log 16 - **********************Test begin**************************
- 06-13-2016 06:54:58 Log.java INFO  [main] utils.Log 16 - successfully launched google search page
- 
