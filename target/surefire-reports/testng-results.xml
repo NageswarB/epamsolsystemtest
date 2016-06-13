@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EPAMSystemTest" duration-ms="29324" started-at="2016-06-13T01:17:06Z" finished-at="2016-06-13T01:17:35Z">
+    <groups>
+    </groups>
+    <test name="EPAMSystemTest" duration-ms="29324" started-at="2016-06-13T01:17:06Z" finished-at="2016-06-13T01:17:35Z">
+      <class name="com.epamtest.tests.VerifyVersionNumberTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.epamtest.tests.VerifyVersionNumberTest@649be74f]" name="setup" is-config="true" duration-ms="5936" started-at="2016-06-13T06:47:06Z" finished-at="2016-06-13T06:47:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyMantisBTVersion()[pri:0, instance:com.epamtest.tests.VerifyVersionNumberTest@649be74f]" name="verifyMantisBTVersion" duration-ms="21678" started-at="2016-06-13T06:47:12Z" finished-at="2016-06-13T06:47:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMantisBTVersion -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.epamtest.tests.VerifyVersionNumberTest@649be74f]" name="tearDown" is-config="true" duration-ms="1681" started-at="2016-06-13T06:47:33Z" finished-at="2016-06-13T06:47:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.epamtest.tests.VerifyVersionNumberTest -->
+    </test> <!-- EPAMSystemTest -->
+  </suite> <!-- EPAMSystemTest -->
+</testng-results>

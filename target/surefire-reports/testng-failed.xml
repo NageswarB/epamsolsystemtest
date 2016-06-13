@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [EPAMSystemTest]">
+  <test name="EPAMSystemTest(failed)">
+    <classes>
+      <class name="com.epamtest.tests.VerifyVersionNumberTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="verifyMantisBTVersion"/>
+        </methods>
+      </class> <!-- com.epamtest.tests.VerifyVersionNumberTest -->
+    </classes>
+  </test> <!-- EPAMSystemTest(failed) -->
+</suite> <!-- Failed suite [EPAMSystemTest] -->
